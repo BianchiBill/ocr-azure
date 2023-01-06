@@ -1,0 +1,14 @@
+{
+  "name": "azure-ocr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "@azure/cognitiveservices-computervision": "8.2.0",
+    "async": "3.2.4",
+    "dotenv": "16.0.2",
+    "esm": "^3.2.25"
+  }
+}
